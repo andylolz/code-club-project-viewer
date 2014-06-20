@@ -3,8 +3,11 @@ Code Club Project Viewer
 
 View Code Club projects in the browser.
 
+Features
+--------
+
  * Paginated! (with custom breakpoints)
- * `li`s rendered with checkable checkboxes! (and maybe an alert on next if not all checkboxes checked)
+ * `li`s rendered with checkable checkboxes! (and maybe an alert `on next` if not all checkboxes checked)
  * Parse arbitrary markdown files! (so small changes can be made quickly and easily)
  * github hosted! (that’s the plan, anyway)
 
